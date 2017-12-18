@@ -24,11 +24,16 @@ import pandas as pd
 import matplotlib.pyplot as plt
 ```
 
-Functions with same name specify using the package name (like in R):
+* Functions with same name specify using the package name (like in R):
 For example:  
 np.sum (np::sum like it would be in R)
 instead of 
 sum (also base python function)
+
+* Means go back from the end instead of removing position -2 from the vector as in R:  
+a_list[-2]
+
+* True instead of TRUE in python vs R
 
 # Day 2
 * 
