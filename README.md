@@ -14,6 +14,9 @@ Magic commands can not simply be followed my comments on same line.
 
 `%whos gets list of environment (like in R Environment)`
 
+Variable assignment for two variable simultaneously:  
+`name, age = 'John', 30`
+
 # Day 2
 * 
 *
