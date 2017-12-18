@@ -17,6 +17,11 @@ Magic commands can not simply be followed my comments on same line.
 Variable assignment for two variable simultaneously:  
 `name, age = 'John', 30`
 
+This import method will define the packages based on their acronym (community consensus):  
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
 # Day 2
 * 
 *
