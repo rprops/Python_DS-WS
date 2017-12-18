@@ -24,6 +24,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 ```
 
+Functions with same name specify using the package name (like in R):
+For example:  
+np.sum (np::sum like it would be in R)
+instead of 
+sum (also base python function)
+
 # Day 2
 * 
 *
