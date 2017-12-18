@@ -33,6 +33,8 @@ sum (also base python function)
 * Means go back from the end instead of removing position -2 from the vector as in R:  
 a_list[-2]
 
+ggpy is python surrogate for ggplot2
+
 * True instead of TRUE in python vs R
 
 # Day 2
