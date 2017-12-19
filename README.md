@@ -43,6 +43,10 @@ ggpy/nineplot are python surrogates for ggplot2
 
 * `survey_data.replace(sex_dict)` This allows you to change values in the dataframe with the dictionary mapping available from the `sex_dict` dictionary.
 
+## Matplotlib
+* `fig = plt.figure()`
+* `plt.show()`
+
 # Day 3
 *
 *
