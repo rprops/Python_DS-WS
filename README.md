@@ -1,3 +1,8 @@
+************************
+**Cloned from [here](https://github.com/jorisvandenbossche/DS-python-data-analysis)** 
+**All credits to Joris Vandenbossche and Stijn Van Hoey**
+************************
+
 # Data manipulation, analysis and visualisation in Python
 
 ## Specialist course Doctoral schools of Ghent University
